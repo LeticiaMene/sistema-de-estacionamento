@@ -1,4 +1,4 @@
-<h1 align="center"><b><img src="https://imgur.com/a/KvUlN8X" height="50" width="50"> Projeto - Flex Turismos</b><br></h1>
+<h1 align="center"><b><img src="https://imgur.com/a/zj52YN7" height="50" width="50"> Projeto - Flex Turismos</b><br></h1>
 
 
 
